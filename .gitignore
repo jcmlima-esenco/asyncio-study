@@ -2,5 +2,7 @@
 
 bin/
 lib/
+.vscode/
 pyvenv.cfg
+
 
